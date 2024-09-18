@@ -6,3 +6,5 @@ git remote -v
 git status 
 git push
 update done ho gya
+my new commit 
+date 18/09/24
